@@ -1,5 +1,5 @@
 console.log("---To check if string input is numeric---")
-var val = "2345";
+var val = 2345;
 g = isNaN(val);
 console.log(g);
 if (g == false) {
