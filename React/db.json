@@ -1,0 +1,37 @@
+{
+
+  "weather": [
+    {
+      "id": 300,
+      "main": "Drizzle",
+      "description": "light intensity drizzle",
+      "icon": "09n"
+    }
+    
+  ],
+  "base": "stations",
+  "main": {
+    "temp": 299.14,
+    "feels_like": 299.14,
+    "temp_min": 299.14,
+    "temp_max": 299.14,
+    "pressure": 1008,
+    "humidity": 89
+  },
+  "visibility": 5000,
+  "wind": { "speed": 2.06, "deg": 230 },
+  "rain": { "1h": 2.91 },
+  "clouds": { "all": 75 },
+  "dt": 1625240711,
+  "sys": {
+    "type": 1,
+    "id": 9218,
+    "country": "INDIA",
+    "sunrise": 1625184980,
+    "sunset": 1625231350
+  },
+  "timezone": 19800,
+  "id": 1264527,
+  "name": "Chennai",
+  "cod": 200
+}
