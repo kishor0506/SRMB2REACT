@@ -21,13 +21,13 @@ let emp2={
 }
 let emp3={
     id:654,
-    name:"loki",
+    name:"lokesh",
     dept:"BA"
 }
 
 
 
-let employee={emp1,...emp2,...emp3};
+let employee={emp1,emp2,...emp3};
 console.log(employee);
 let location={
     loc:"RMZ millennium park",

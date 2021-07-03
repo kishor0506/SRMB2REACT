@@ -40,15 +40,15 @@ student.forEach((e) => {
     console.log(`NAME: ${e.name}  id: ${e.id} Mark: ${e.marks} address: ${e.address}`);
 });
 
-let result = student.filter((citysort => citysort.address == "Chennai" & citysort.address== "banglore"));
+let result = student.filter(citysort =>citysort.address == "chennai" && citysort.address== "banglore");
+        console.log(result);
 // const z = student.filter(
 //     (a) => (a.address != "chennai") & (a.address != "bangalore")
 //   );
 
-console.log(result);
 
 let addmarks=student.map((a)=>{
     return`${ a.marks+20}`
 });
 console.log(addmarks)
-console.log(`NAME: ${addmarks.name}  id: ${addmarks.id} Mark: ${addmarks.marks} address: ${addmarks.address}`);
+//console.log(`NAME: ${addmarks.name}  id: ${addmarks.id} Mark: ${addmarks.marks} address: ${addmarks.address}`);
