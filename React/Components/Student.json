@@ -1,0 +1,82 @@
+{
+  "students": [
+    {
+      "id": "101",
+      "name": "srinath",
+      "age": "23",
+      "city": "Agra"
+    },
+    {
+      "id": "102",
+      "name": "lokesh",
+      "age": "28",
+      "city": "Delhi"
+    },
+    {
+      "id": "103",
+      "name": "kishor",
+      "age": "32",
+      "city": "Chennai"
+    },
+    {
+      "id": "104",
+      "name": "Chaitanya",
+      "age": "28",
+      "city": "Bangalore"
+    },
+    {
+      "firstName": "asdfsadf",
+      "lastName": "ffffff",
+      "mobileNo": "09710526061",
+      "email": "kishore10456@gmail.com",
+      "dpt": "",
+      "dept": "ffffff",
+      "id": "3uFp4f1"
+    },
+    {
+      "id": 50940,
+      "firstName": "kishorkumar",
+      "lastName": "P",
+      "mobileNo": "09710526061",
+      "email": "kishore10456@gmail.com",
+      "dpt": "",
+      "dept": "ffffff"
+    },
+    {
+      "id": 46600,
+      "firstName": "kishorkumar",
+      "lastName": "P",
+      "mobileNo": "09710526061",
+      "email": "kishore10456@gmail.com",
+      "dpt": "",
+      "dept": "sdf"
+    },
+    {
+      "id": 18499,
+      "firstName": "kishorkumar",
+      "lastName": "P",
+      "mobileNo": "09710526061",
+      "email": "kishore10456@gmail.com",
+      "dpt": "",
+      "dept": "ffffff"
+    },
+    {
+      "id": 16046,
+      "firstName": "s",
+      "lastName": "s",
+      "mobileNo": "09710526061",
+      "email": "kishore10456@gmail.com",
+      "dpt": "",
+      "dept": "s"
+    },
+    {
+      "id": 48909,
+      "firstName": "kishorkumar",
+      "lastName": "p",
+      "mobileNo": "09710526061",
+      "email": "kishore10456@gmail.com",
+      "dpt": "",
+      "dept": "mca"
+    }
+  ]
+}
